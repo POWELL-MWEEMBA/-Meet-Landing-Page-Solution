@@ -42,7 +42,7 @@ Users should be able to:
 ### **Links**
 
 * **Solution URL:** [https://github.com/POWELL-MWEEMBA/-Meet-Landing-Page-Solution.git](https://your-solution-url.com)
-* **Live Site URL:** [https://your-live-site-url.com](https://your-live-site-url.com)
+* **Live Site URL:** [[https://your-live-site-url.com](https://powell-mweemba.github.io/-Meet-Landing-Page-Solution/)](https://your-live-site-url.com)
 
 ---
 
